@@ -1,1 +1,3 @@
-# CustomSpotifyFontPRIVATE
+# Custom Spotify Font  !PRIVATE!
+
+PRIVATE PROJECT FOR BYTEBREAK@SERENITY.
